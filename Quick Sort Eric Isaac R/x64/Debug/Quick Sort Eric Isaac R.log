@@ -1,0 +1,9 @@
+﻿  Quick Sort Eric Isaac R.cpp
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(10,2): error C2065: 'miLibro': undeclared identifier
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(10,10): error C2146: syntax error: missing ';' before identifier 'misLibros'
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(10,10): error C2065: 'misLibros': undeclared identifier
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(34,7): error C2065: 'misLibros': undeclared identifier
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(34,2): error C3861: 'menu': identifier not found
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(104,3): error C2065: 'rellenarL': undeclared identifier
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(108,3): error C2065: 'mostrarL': undeclared identifier
+E:\Practicas programacion\Practicas 2do semestre\Zap404_16-02\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R\Quick Sort Eric Isaac R.cpp(114,3): error C2065: 'buscarL': undeclared identifier
